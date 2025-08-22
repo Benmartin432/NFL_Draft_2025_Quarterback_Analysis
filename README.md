@@ -1,4 +1,6 @@
 # NFL_Draft_2025_Quarterback_Analysis
 I used Tableau to analyze the top 2025 NFL Draft prospects at the quarterback position to determine who will be the best among them and wrote a thorough analysis to discover the truth. I uncovered the best, hidden gems, dark horse candidates, and players to stay away from. 
 
-UPDATE: Since I completed this report in February 2025, NFL teams have seemed to agreed with me. The hidden gem I identify in the report ended up going in the 1st round with a team trading up to get him because they valued him so much. The other hidden gem was drafted in the 3rd round to eventually become the team's starting quarterback. One player I idenfied as being fool's gold, other teams agreed and he wasn't drafted until the 5th round. Looks like the numbers don't lie.
+UPDATE: Since I completed this report in February 2025, NFL teams have seemed to agreed with me. The hidden gem I identify in the report ended up going in the 1st round with a team trading up to get him because they valued him so much. The other hidden gem was drafted in the 3rd round to eventually become the team's starting quarterback. One player I idenfied as being someone to be cautious of in selecting, other teams agreed, and he wasn't drafted until the 5th round. Looks like the numbers don't lie.
+
+--Note: For context purposes, 1st round is considered star or starting potential, 3rd round is starting or role player to become eventual starter, 5th round is a project bench player or won't make the roster.
